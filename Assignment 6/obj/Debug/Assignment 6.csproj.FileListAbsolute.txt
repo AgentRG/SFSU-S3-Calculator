@@ -1,0 +1,19 @@
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Form1.resources
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
+C:\Users\Rostyslav\Dropbox\College and Uni\SFSU\3 Fall 2016\ISYS 0350-05\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Form2.resources
+C:\Users\Rostyslav\Desktop\Work\Assignments\Assignment6\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Rostyslav\Desktop\Work\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Rostyslav\Desktop\Work\Assignments\Assignment6\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
+C:\Users\Rostyslav\Desktop\Work\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Rostyslav\Desktop\Work\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Rostyslav\Desktop\Work\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
+C:\Users\Rostyslav\Desktop\Work\Assignment 6aasd\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Rostyslav\Desktop\Work\Assignment 6aasd\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Rostyslav\Desktop\Work\Assignment 6aasd\Assignment 6\obj\Debug\Assignment 6.pdb
